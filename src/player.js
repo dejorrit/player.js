@@ -1,6 +1,5 @@
 import './lib/compatibility-check';
 
-import 'es6-collections';
 import Promise from 'native-promise-only';
 
 import { storeCallback, getCallbacks, removeCallback, swapCallbacks } from './lib/callbacks';
